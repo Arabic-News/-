@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://arabic-news.github.io/-/sitemap.xml
